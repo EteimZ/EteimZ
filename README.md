@@ -15,7 +15,7 @@
 
 
 
-## My ToDo list
+## My ToDo list 📕
 - [ ] Complete ML competition on [ Zindi ](https://zindi.africa/competitions/ai4d-yoruba-machine-translation-challenge).
 - [ ] Make tensorflow.js web app.
 - [ ] Build a quantum tic tac toe game, [ click here ](https://en.wikipedia.org/wiki/Quantum_tic-tac-toe) to  learn more.
