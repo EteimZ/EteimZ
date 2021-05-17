@@ -1,6 +1,6 @@
 # 👋🏿 Hi, I'm Eteims 
 
-### I'm an Engineeer, I love knowing how things work ...
+### I'm an Engineer, I love knowing how things work ...
 
 - 🔭 I'm currently fascinated by Machine learning and the web.
 - 👯 I’m looking to collaborate on:
