@@ -1,17 +1,17 @@
 # 👋🏿 Hi, I'm Eteims 
 
-### I'm an Engineer, I love knowing how things work ...
+### I'm an Engineer, I love to understand how things work ...
 
 - 🔭 I'm currently fascinated by Machine learning and the web.
 - 👯 I’m looking to collaborate on:
-   -  ML competetions 
-   -  Hackathons
-   -  Open Source projects
+   -  ML competetions.
+   -  Hackathons.
+   -  Open Source projects.
   
 - 🌱 I'm currently learning:
-   + 💾 [C](https://github.com/EteimZ/Let_See) programming
-   + 🕸️ Client & server side programming
-   + 🧠 Machine Learning/ Deep Learning
+   + 💾 [C](https://github.com/EteimZ/Let_See) programming.
+   + 🕸️ Client & server side programming.
+   + 🧠 Deep Learning for text and sequences.
 
 
 
