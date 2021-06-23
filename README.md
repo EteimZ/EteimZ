@@ -12,12 +12,13 @@
    + 💾 [C](https://github.com/EteimZ/Let_See) programming.
    + 🕸️ Client & server side programming.
    + 🧠 Deep Learning for text and sequences.
+   + 📱 On device machine learning.
 
 
 
 ## My ToDo list 📕
-- [ ] Complete ML competition on [ Zindi ](https://zindi.africa/competitions/ai4d-yoruba-machine-translation-challenge).
-- [ ] Make tensorflow.js web app.
+- [ ] Build a Cellular automata web app.
+- [x] Make tensorflow.js web app.
 - [ ] Build a quantum tic tac toe game, [ click here ](https://en.wikipedia.org/wiki/Quantum_tic-tac-toe) to  learn more.
 
 ## My GitHub Stats 📉
