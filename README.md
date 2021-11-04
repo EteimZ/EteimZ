@@ -2,24 +2,22 @@
 
 ### I'm an Engineer, I love to understand how things work ...
 
-- 🔭 I'm currently fascinated by Machine learning and the web.
+- 🔭 I'm currently fascinated by blockchain technologies.
 - 👯 I’m looking to collaborate on:
    -  ML competetions.
    -  Hackathons.
    -  Open Source projects.
   
 - 🌱 I'm currently learning:
-   + 💾 [C](https://github.com/EteimZ/Let_See) programming.
+   + 💾 [C/C++](https://github.com/EteimZ/Let_See) programming.
    + 🕸️ Client & server side programming.
-   + 🧠 Deep Learning for text and sequences.
-   + 📱 On device machine learning.
+   + 🧠 Reinforcement learning.
 
+## My Reading list 📕
+- C How to Program.
+- Data Structures and Algorithms with Python.
+- Hands-On Smart Contract Development with Solidity & Ethereum From Fundamentals to Deployment.
 
-
-## My ToDo list 📕
-- [ ] Build a Cellular automata web app.
-- [x] Make tensorflow.js web app.
-- [ ] Build a quantum tic tac toe game, [ click here ](https://en.wikipedia.org/wiki/Quantum_tic-tac-toe) to  learn more.
 
 ## My GitHub Stats 📉
 
