@@ -16,7 +16,8 @@
 ## My Reading list 📕
 - C How to Program.
 - Data Structures and Algorithms with Python.
-- Hands-On Smart Contract Development with Solidity & Ethereum From Fundamentals to Deployment.
+- [Learn you haskell](http://learnyouahaskell.com/)
+- [The book (The Rust Programming Language)](https://doc.rust-lang.org/book/)
 
 
 ## My GitHub Stats 📉
