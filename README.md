@@ -16,7 +16,7 @@
 ## My Reading list 📕
 - C How to Program.
 - Data Structures and Algorithms with Python.
-- [Learn you haskell](http://learnyouahaskell.com/)
+- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
 - [The book (The Rust Programming Language)](https://doc.rust-lang.org/book/)
 
 
