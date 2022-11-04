@@ -2,7 +2,7 @@
 
 ### I'm an Engineer, I love to understand how things work ...
 
-- 🔭 I'm currently fascinated by asynchronous networking.
+- 🔭 I'm currently fascinated by functional programming.
 - 👯 I’m looking to collaborate on:
    -  ML competetions.
    -  Hackathons.
@@ -11,7 +11,7 @@
 - 🌱 I'm currently learning:
    + 💾 [C/C++](https://github.com/EteimZ/Let_See) programming.
    + 🕸️ Client & server side programming.
-   + :juggling: Asynchronous programming.
+   + 🤹🏿 Asynchronous programming.
 
 ## My Reading list 📕
 - C How to Program.
