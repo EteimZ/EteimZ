@@ -2,7 +2,7 @@
 
 ### I'm an Engineer, I love to understand how things work ...
 
-- 🔭 I'm currently fascinated by functional programming.
+- 🔭 I'm currently fascinated by sockets.
 - 👯 I’m looking to collaborate on:
    -  ML competetions.
    -  Hackathons.
