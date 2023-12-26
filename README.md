@@ -2,7 +2,10 @@
 
 ### I'm an Engineer, I love to understand how things work ...
 
-- 🔭 I'm currently fascinated by sockets.
+- 🔭 I'm currently fascinated by:
+   - Compilers.
+   - Theory of computation.
+   - Operating systems. 
 - 👯 I’m looking to collaborate on:
    -  ML competetions.
    -  Hackathons.
@@ -10,15 +13,16 @@
   
 - 🌱 I'm currently learning:
    + 💾 [C/C++](https://github.com/EteimZ/Let_See) programming.
-   + 🕸️ Client & server side programming.
-   + 🤹🏿 Asynchronous programming.
+   + Systems programming.
+   + Socket programming.
 
 ## My Reading list 📕
 - C How to Program.
 - Data Structures and Algorithms with Python.
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
 - [The book (The Rust Programming Language)](https://doc.rust-lang.org/book/)
-
+- Introduction to Algorithms by CLRS.
+- [The linux command line](https://linuxcommand.org/tlcl.php)
 
 ## My GitHub Stats 📉
 
