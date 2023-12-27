@@ -1,6 +1,6 @@
 # 👋🏿 Hi, I'm Eteims 
 
-### I'm an Engineer, I love to understand how things work ...
+### I'm an autodidact, I love to understand how things work ...
 
 - 🔭 I'm currently fascinated by:
    - Compilers.
