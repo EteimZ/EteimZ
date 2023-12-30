@@ -19,7 +19,7 @@
 ## My Reading list 📕
 - C How to Program.
 - Data Structures and Algorithms with Python.
-- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
+- [Learn You a Haskell for Great Good!](https://learnyouahaskell.github.io/)
 - [The book (The Rust Programming Language)](https://doc.rust-lang.org/book/)
 - Introduction to Algorithms by CLRS.
 - [The linux command line](https://linuxcommand.org/tlcl.php)
