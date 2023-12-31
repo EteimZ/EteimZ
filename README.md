@@ -12,9 +12,9 @@
    -  Open Source projects.
   
 - 🌱 I'm currently learning:
-   + 💾 [C/C++](https://github.com/EteimZ/Let_See) programming.
    + Systems programming.
    + Socket programming.
+   + functional programming.
 
 ## My Reading list 📕
 - C How to Program.
